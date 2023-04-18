@@ -1,4 +1,4 @@
-# Virtual Assistant using Artificial Intelligence
+# Virtual Assistant - Cubic
 Virtual Assistant using Artificial Intelligence - Cubic. 
 This project is based on Neural Network. Project made by using python programming Language.
 <_____Run Cubic.py File_____>
