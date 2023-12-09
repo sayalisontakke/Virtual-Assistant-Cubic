@@ -1,6 +1,7 @@
 # Virtual Assistant - Cubic
 Virtual Assistant using Artificial Intelligence - Cubic. 
-This project is based on Neural Network. Project made by using python programming Language.
+This project is based on Neural Network.
+Implemented with Python using PyTorch, enables natural language understanding and responsive interactions with users through neural network training.
 <_____Run Cubic.py File_____>
 
 Summary of Project :
